@@ -13,7 +13,7 @@ class FrontScreen extends StatelessWidget {
       body: Column(
         children: [
           Row(
-            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.end,
             children: [
               Center(
                 child: Container(
